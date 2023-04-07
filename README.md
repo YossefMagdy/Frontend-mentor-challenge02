@@ -1,2 +1,6 @@
-# Frontend-mentor-challenge02
-FAQ accordion card
+# Frontend Mentor - FAQ accordion card
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
